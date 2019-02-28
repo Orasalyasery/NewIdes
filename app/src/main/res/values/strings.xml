@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evaluation</string>
+    <string-array name="array_technology">
+        <item>JavaConsole</item>
+        <item>Javaswing</item>
+        <item>JavaFX</item>
+        <item>JavaAndroid</item>
+    </string-array>
+</resources>
